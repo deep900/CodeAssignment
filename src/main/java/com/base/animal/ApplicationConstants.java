@@ -4,7 +4,7 @@
 package com.base.animal;
 
 /**
- * @author deep90
+ * @author Pradheep
  *
  */
 public class ApplicationConstants {
@@ -32,4 +32,10 @@ public class ApplicationConstants {
 	public static final String SINGING = "I am singing";
 	
 	public static final String IDONTWALK = "I dont walk";
+	
+	public static final String IDONTMAKESOUND = "I dont make sound";
+	
+	public static final String CRAWL = "I can crawl";
+	
+	public static final String DONTFLY = "I cant fly";
 }

@@ -7,7 +7,7 @@ import com.base.animal.Animal;
 import com.base.animal.ApplicationConstants;
 
 /**
- * @author deep90
+ * @author Pradheep
  *
  */
 public class Parrot extends Animal {

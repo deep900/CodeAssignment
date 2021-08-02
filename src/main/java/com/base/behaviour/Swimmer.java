@@ -4,7 +4,7 @@
 package com.base.behaviour;
 
 /**
- * @author deep90
+ * @author Pradheep
  *
  */
 public interface Swimmer {

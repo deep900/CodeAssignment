@@ -30,4 +30,6 @@ public class ApplicationConstants {
 	public static final String FLYING = "I am flying";
 	
 	public static final String SINGING = "I am singing";
+	
+	public static final String IDONTWALK = "I dont walk";
 }
